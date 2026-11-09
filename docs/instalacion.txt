@@ -3,3 +3,4 @@ Instalación del protecto
 1. Descargar el repositorio.
 2. Abrir el proyecto.
 3. Ejecutar la aplicación.
+4. Comprobar el resultado en el navegador.
